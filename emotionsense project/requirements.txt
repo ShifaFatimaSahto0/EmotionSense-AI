@@ -3,5 +3,5 @@ pandas
 plotly
 textblob
 transformers
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
+torch==2.2.2+cpu
+-f https://download.pytorch.org/whl/torch_stable.html
